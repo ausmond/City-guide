@@ -1,0 +1,9 @@
+<ion-modal-view ng-click="vm.close()">
+	<ion-content>
+		<ion-slide-box>
+			<ion-slide ng-repeat="image in vm.images">
+				<img ng-src="{{image}}">
+			</ion-slide>
+		</ion-slide-box>
+	</ion-content>
+</ion-modal-view>
