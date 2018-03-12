@@ -1,0 +1,482 @@
+{
+	"id": 1,
+	"jsonrpc": "2.0",
+	"total": 8,
+	"result": [
+		{
+			"guid": "98472667-a72a-4b10-a28f-62c569f7bb7e",
+			"name": "69 Colebrooke Row",
+			"featured": "false",
+		  "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		  "description": "Open since June 2009 an award winning cocktail bar located on a backstreet of Islington. Identifiable by an outdoor lantern, it is a unique cocktail bar housed in one intimate room. The interior blends 1950s Italian Café style with a Film Noir feel. The cocktail menu uses esoteric ingredients that have been developed in Drink Factory - the research and development laboratory located near to Broadway Market.",
+		  "category": "Bars",
+		  "phoneNumber": "07540 528 593",
+		  "email": "drinks@69colebrookerow.com",
+		  "officeLocation": "51.536525, -0.101076",
+		  "facebookPage": "https://www.facebook.com/pages/69-COLEBROOKE-ROW/86554186601",
+		  "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		  "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+		  "openhours": {
+		    "days": [{
+		      "day": 1,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }, {
+		      "day": 2,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }, {
+		      "day": 3,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }, {
+		      "day": 4,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }, {
+		      "day": 5,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+
+		    }, {
+		      "day": 6,
+		      "openAt": 1459872000000,
+		      "closeAt": 1459897200000
+		    }],
+		    "zone": 1
+		  },
+		  "mapdata": {
+		    "annotations" : [{
+		        "title" : "69 Colebrooke Row",
+		        "latitude" : 51.536525,
+		        "longitude" : -0.101076
+		    }]
+		  },
+		  "pictures": [
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		  ],
+		  "tags": ["bar", "cocktail", "live events"]
+		}, {
+					"guid": "74d812c1-f5cb-4d5d-9095-51f96e491754",
+					"name": "Artesian",
+					"featured": "false",
+		      "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		      "description": "Artesian is at the forefront of the sophisticated London bar scene, showcasing the city’s largest collection of rums, an extensive Champagne list, alongside an inventive menu of cocktails and blends. The team behind Artesian have helped to receive numerous accolades in the last three years.  Artesian has scooped ‘The World’s Best Bar’ for four consecutive from Drinks International Magazine.",
+		      "category": "Bars",
+		      "phoneNumber" : "00442076360838",
+		      "email": "info@artesian-bar.co.uk",
+		      "officeLocation": "51.517535, -0.143178",
+		      "facebookPage": "https://www.facebook.com/artesianbar",
+		      "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		      "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+		      "openhours": {
+		        "days": [{
+		          "day": 1,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 2,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 3,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 4,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 6,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459850400000,
+		          "closeAt": 1459821600000
+		        }],
+		        "zone": 1
+		      },
+		      "mapdata": {
+		        "annotations" : [{
+		            "title" : "Artesian",
+		            "latitude" : 51.517535,
+		            "longitude" : -0.143178
+		        }]
+		      },
+		      "pictures": [
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		      ],
+		      "tags": ["bar", "cocktail", "food", "awarded"]
+		}, {
+			"guid": "0fd87af0-80f7-45ed-9f97-0f84966fef38",
+			"name": "40 Winks",
+			"featured": "false",
+		  "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		  "description": "40 Winks is a legendary hotel based in hip and trendy East London. Despite our bijou size, we have achieved an almost mythical status since we opened our doors in 2009, somewhat cheekily describing ourselves as the world’s first micro boutique hotel.From the beginning, our mission was always a very simple one - to offer an antidote to the bland uniformity of most hotel chains by creating something deliriously seductive, memorable and enchanting.",
+		  "category": "Hotels",
+		  "phoneNumber" : "00442077900259",
+		  "email": "reservations@40winks.org",
+		  "officeLocation": "51.521087, -0.050179",
+		  "facebookPage": "https://www.facebook.com/40winks-54219267979/",
+		  "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		  "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+		  "openhours": {
+		    "days": [{
+		      "day": 1,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 2,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 3,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 4,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 5,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 6,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }, {
+		      "day": 0,
+		      "openAt": 1459814400000,
+		      "closeAt": 1459900740000
+		    }],
+		    "zone": 1
+		  },
+		  "mapdata": {
+		    "annotations" : [{
+		        "title" : "40 Winks",
+		        "latitude" : 51.521087,
+		        "longitude" : -0.050179
+		    }]
+		  },
+		  "pictures": [
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		  ],
+		  "tags": ["hotel", "east london"]
+		}, {
+					"guid": "160b085a-4d2d-4d81-ac7c-791e0117220e",
+					"name": "Great Northern Hotel",
+					"featured": "true",
+		      "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		      "description": "Great Northern Hotel is an exquisitely designed luxury boutique hotel with an extraordinary location, offering unrivalled value to the discerning traveller. We are perfectly situated just 25 metres from the Eurostar terminus in the heart of King's Cross St Pancras.",
+		      "category": "Hotels",
+		      "phoneNumber" : "00442033880800",
+		      "email": "sofia.atsalou@gmail.com",
+		      "officeLocation": "51.531322, -0.124782",
+		      "facebookPage": "https://www.facebook.com/pages/Great-Northern-Hotel/402513199822725",
+		      "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		      "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+		      "openhours": {
+		        "days": [{
+		          "day": 1,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }, {
+		          "day": 2,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }, {
+		          "day": 3,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }, {
+		          "day": 4,
+		          "openAt": 1420095600000,
+		          "closeAt": 1420124400000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+
+		        }, {
+		          "day": 6,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459814400000,
+		          "closeAt": 1459900740000
+		        }],
+		        "zone": 1
+		      },
+		      "mapdata": {
+		        "annotations" : [{
+		            "title" : "Great Northern Hotel",
+		            "latitude" : 51.531322,
+		            "longitude" : -0.124782
+		        }]
+		      },
+		      "pictures": [
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		      ],
+		      "tags": ["hotel", "modern-classic"]
+		}, {
+			"guid": "5fa3c8f3-6299-436e-9756-7f935d6c96ba",
+			"name": "A little of what you fancy",
+			"featured": "true",
+		  "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		  "description": "Located in the heart of Dalston, A Little Of What You Fancy offers meals in the tradition of authentic British food and home cooking.",
+		  "category": "Restaurants",
+		  "phoneNumber" : "0042072750060",
+		  "email": "sofia.atsalou@gmail.com",
+		  "officeLocation": "51.543280, -0.075861",
+		  "facebookPage": "https://www.facebook.com/alittleofwhatyoufancy464",
+		  "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		  "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+		  "openhours": {
+		    "days": [{
+		      "day": 2,
+		      "openAt": 1459877400000,
+		      "closeAt": 1459890000000
+		    }, {
+		      "day": 3,
+		      "openAt": 1459877400000,
+		      "closeAt": 1459890000000
+		    }, {
+		      "day": 4,
+		      "openAt": 1459877400000,
+		      "closeAt": 1459890000000
+		    }, {
+		      "day": 5,
+		      "openAt": 1459877400000,
+		      "closeAt": 1459890000000
+		    }, {
+		      "day": 6,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459891800000
+		    }, {
+		      "day": 0,
+		      "openAt": 1459850400000,
+		      "closeAt": 1459872000000
+		    }],
+		    "zone": 1
+		  },
+		  "mapdata": {
+		    "annotations" : [{
+		        "title" : "A little of what you fancy",
+		        "latitude" : 51.543280,
+		        "longitude" :  -0.075861
+		    }]
+		  },
+		  "pictures": [
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		  ],
+		  "tags": ["restaurant", "french"]
+		}, {
+					"guid": "25fe2418-b261-43b2-a776-b794890d44c8",
+					"name": "Arbutus",
+					"featured": "true",
+		      "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		      "description": "Arbutus opened in May 2006 and is the brainchild of Anthony Demetre and Will Smith. Arbutus boasts an intimate dining area with a décor that does not compromise on style or elegance. A unique feature is that the whole wine list can be bought by the 250ml carafe and allows you to pair different wine with your meal. Anthony’s cooking skill really shines with his ability to turn seasonal and inexpensive food items into affordable and interesting dishes. Arbutus earned a Michelin star in January 2007.",
+		      "category": "Restaurants",
+		      "phoneNumber" : "00442077344545",
+		      "email": "info@arbutusrestaurant.co.uk",
+		      "officeLocation": "51.514411, -0.132198",
+		      "facebookPage": "https://www.facebook.com/arbutusrestaurant",
+		      "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		      "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+		      "openhours": {
+		        "days": [{
+		          "day": 1,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        },
+		        {
+		          "day": 1,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459893600000
+		        }, {
+		          "day": 2,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        }, {
+		          "day": 2,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459893600000
+		        }, {
+		          "day": 3,
+		          "openAt": 1420124400000,
+		          "closeAt": 1420138800000
+		        }, {
+		          "day": 3,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459893600000
+		        }, {
+		          "day": 4,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        }, {
+		          "day": 4,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459893600000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459895400000
+		        }, {
+		          "day": 6,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459863000000
+		        }, {
+		          "day": 6,
+		          "openAt": 1459872000000,
+		          "closeAt": 1459895400000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459854000000,
+		          "closeAt": 1459864800000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459873800000,
+		          "closeAt": 1459891800000
+		        }],
+		        "zone": 1
+		      },
+		      "mapdata": {
+		        "annotations" : [{
+		            "title" : "Arbutus",
+		            "latitude" : 51.514411,
+		            "longitude" : -0.132198
+		        }]
+		      },
+		      "pictures": [
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		      ],
+		      "tags": ["bistro", "modern", "minimalistic"]
+		}, {
+			"guid": "deb0c47a-e608-47c3-83db-e4f9d463c880",
+			"name": "Beyond Retro",
+			"featured": "false",
+		  "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		  "description": "Beyond Retro began in 2002 as a single warehouse-turned-retail store in East London, stocked with an eclectic range of vintage sourced from around the globe. Thirteen years, nine more stores and an ecommerce site later, we have carved a unique identity as the leading vintage retailer across the UK and Sweden, and remain a seminal reference point for individuals of style - as well as a key stakeholder in the circular economy. Led by an all-star team of vintage experts, we work hard at all levels of the business to deliver an exciting and unique shopping experience for our diverse and discerning customers.",
+		  "category": "Clothing",
+		  "phoneNumber" : "004402077299001",
+		  "email": "info@beyondretro.com",
+		  "officeLocation": "51.553316, -0.074427",
+		  "facebookPage": "https://www.facebook.com/beyondretro",
+		  "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		  "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+		  "openhours": {
+		    "days": [{
+		      "day": 1,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459872000000
+		    }, {
+		      "day": 2,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459872000000
+		    }, {
+		      "day": 3,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459882800000
+		    }, {
+		      "day": 4,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459882800000
+		    }, {
+		      "day": 5,
+		      "openAt": 1459846800000,
+		      "closeAt": 1459882800000
+
+		    }, {
+		      "day": 6,
+		      "openAt": 1459852200000,
+		      "closeAt": 1459879200000
+		    }, {
+		      "day": 0,
+		      "openAt": 1459852200000,
+		      "closeAt": 1459875600000
+		    }],
+		    "zone": 1
+		  },
+		  "mapdata": {
+		    "annotations" : [{
+		        "title" : "Beyond Retro",
+		        "latitude" : 51.553316,
+		        "longitude" : -0.074427
+		    }]
+		  },
+		  "pictures": [
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		    "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		  ],
+		  "tags": ["clothing", "vintage"]
+		}, {
+					"guid": "6dddcf61-383c-47cd-a313-8f5a454d28a2",
+					"name": "Dulwich Picture Gallery",
+					"featured": "true",
+		      "logo": "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder-thumb.png",
+		      "description": "Dulwich Picture Gallery is the world’s first purpose-built public art gallery: it was founded in 1811 when Sir Francis Bourgeois RA bequeathed his collection of old masters “for the inspection of the public”. Today the Gallery is a vibrant cultural hub hosting some of the UK’s leading exhibitions alongside its Permanent Collection of Baroque masterpieces while staging a wide-ranging programme of public events, practical art and community engagement.",
+		      "category": "Museums & Galleries",
+		      "phoneNumber" : "00442086935254",
+		      "email": "sofia.atsalou@gmail.com",
+		      "officeLocation": "51.446306, -0.085941",
+		      "facebookPage": "https://www.facebook.com/dulwichpicturegallery",
+		      "wordpress": "https://demo.titaniumtemplates.com/wordpress/?json=1",
+		      "drupal": "https://demo.titaniumtemplates.com/drupal/rest/views/rest_api",
+		      "openhours": {
+		        "days": [{
+		          "day": 2,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 3,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 4,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 5,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 6,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }, {
+		          "day": 0,
+		          "openAt": 1459846800000,
+		          "closeAt": 1459872000000
+		        }],
+		        "zone": 1
+		      },
+		      "mapdata": {
+		        "annotations" : [{
+		            "title" : "Dulwich Picture Gallery",
+		            "latitude" : 51.446306,
+		            "longitude" : -0.085941
+		        }]
+		      },
+		      "pictures": [
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png",
+		        "https://skounis-dev.s3.amazonaws.com/mobile-apps/city-guide/_release/assets/placeholder.png"
+		      ],
+		      "tags": ["gallery", "oldest", "public"]
+		}
+	]
+}
